@@ -25,7 +25,7 @@ O site da Razer é uma plataforma online dedicada ao universo gamer, oferecendo 
 </ol>
 
 <h2>Registro de Testes</h2>
-<p>Video dos Testes: </p>
+<p>Video dos Testes: https://www.youtube.com/watch?v=uAdoOCn9xrQ </p>
 
 <h2>Autores: </h2>
 
